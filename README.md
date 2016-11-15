@@ -2,4 +2,4 @@
 
 create a new branch is quick
 
-make an conflict
+fix the conflict
